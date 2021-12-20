@@ -8,8 +8,8 @@ We analyzed data from Pewlett Hackard to determine how many employees will retir
 
 - There are over 300,000 current employees at Pewlett Hackard, of which over 33,000 (~11%) are at retirement age.
 - Senior level positions make up the bulk of titles for expected retirees with Senior Engineer and Senior Staff leading the pack.
-- We identified just under 2,000 employees that would be elible or qualify to be part of a mentorship program that could help allievate some of the stress caused by a large incoming workforce. 
-   
+   ![alt text](https://github.com/damienfranco/Pewlett-Hackard-Analysis/blob/main/Retiring_titles.png "Retiring Titles")
+- We identified ~ 1,500 employees that would be elible or qualify to be part of a mentorship program that could help allievate some of the stress caused by a large incoming workforce. 
 
 ## Resources
 
